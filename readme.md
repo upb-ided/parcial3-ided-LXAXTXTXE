@@ -1,4 +1,4 @@
-IDED_Fundamentos_201710_Parcial3
+﻿IDED_Fundamentos_201710_Parcial3
 
 Universidad Pontificia Bolivariana
 
@@ -8,9 +8,9 @@ Fundamentos de Programación
 
 Parcial 3
 
-Nombre: (Edite este archivo llenando este dato)
+Nombre: Alejandro Villadiego Tuiran 
 
-ID: (Edite este archivo llenando este dato)
+ID: 000318771 
 
 Fecha: Abril 21 de 2017
 
