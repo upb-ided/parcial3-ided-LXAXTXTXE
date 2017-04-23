@@ -1,0 +1,18 @@
+Punto 1(AddMatrix)
+* OK
+Total: 1.0 / 1.0
+
+Punto 2(MultiplyMatrixByScalar)
+* OK
+Total: 1.0 / 1.0
+
+Punto 3(MultiplyMatrices)
+* Hay un error en el código. 'result.PrintValues()' se puede llamar cuando 'result = null'.
+* El algoritmo es correcto.
+Total: 2.0 / 2.0
+
+Punto 4(MixMatrix)
+* El algoritmo hace el producto de matrices, no la operación pedida.
+Total: 0.1 / 1.0
+
+Total evaluación: 4.1 / 5.0
